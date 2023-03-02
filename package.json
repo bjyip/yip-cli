@@ -1,13 +1,13 @@
 {
   "name": "yip-cli",
-  "version": "1.0.1",
+  "version": "2.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "yip-cli": "bin/cmd.js"
+    "yip-cli": "index.js"
   },
   "author": "",
   "license": "ISC",
