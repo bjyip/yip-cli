@@ -12,10 +12,10 @@ const chalk = require('chalk')
 const logSymbol = require('log-symbols')
 
 program
-    .version('0.1.0')
+    .version('1.0.1')
 
 program
-  .version('0.1.0', '-v, --version')
+  .version('1.0.1', '-v, --version')
   .usage('<command> [options]')
   .description('Standard tooling generate dir from templates')
 
